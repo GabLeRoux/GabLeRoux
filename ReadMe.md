@@ -1,4 +1,5 @@
-Hi, I'm GabLeRoux :wave:  
+## Hi, I'm GabLeRoux :wave:  
+
 Welcome to my github profile! I speak `french`, `english` and `python`. Read my stuff on [gableroux.com](http://www.gableroux.com/)
 
 Want a cool `.pythonrc` file? [Check this out!](https://gableroux.com/python/2016/01/20/python-interpreter-autocomplete/)
