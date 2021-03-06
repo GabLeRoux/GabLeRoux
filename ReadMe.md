@@ -2,7 +2,7 @@
 
 I'm Gabriel Le Breton aka GabLeRoux, nice to meet you 🍻
 
-Welcome to my github profile! I speak `french`, `english` and many programming langages. You can read my stuff on [gableroux.com](http://www.gableroux.com/)
+Welcome to my github profile! I speak `french`, `english` and many programming languages. You can read my stuff on [gableroux.com](http://www.gableroux.com/)
 
 ## 🔭 I’m currently working on
 
