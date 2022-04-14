@@ -9,6 +9,8 @@ Welcome to my github profile! I speak `french`, `english` and many programming l
 [![game.ci](https://s.gravatar.com/avatar/50c8f69688b341095cae3755bc0720b2?s=250)](https://game.ci/)  
 [game.ci](https://game.ci), a community to make building and testing games easier <3
 
+![snake generated animated svg for GabLeRoux](https://github.com/gableroux/gableroux/blob/output/github-contribution-grid-snake.svg)
+
 ## 🔨 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
 
 <p align='left'><a href='https://www.gnu.org/software/bash/' target='_blank'>
@@ -61,7 +63,11 @@ Want a cool `.pythonrc` file? [Check this out!](https://gableroux.com/python/201
 
 ## 📈 Some stats
 
-[![GabLeRoux's github stats](https://github-readme-stats.vercel.app/api?username=GabLeRoux)](https://github.com/GabLeRoux/)
+<div>
+  <a href="https://github.com/gableroux">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gableroux&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gableroux&layout=compact&langs_count=15&theme=radical"/>
+</div>
 
 ## 📫 How to reach me:
 
