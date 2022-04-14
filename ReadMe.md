@@ -65,8 +65,9 @@ Want a cool `.pythonrc` file? [Check this out!](https://gableroux.com/python/201
 
 <div>
   <a href="https://github.com/gableroux">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gableroux&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gableroux&layout=compact&langs_count=15&theme=radical"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gableroux&show_icons=true&theme=radical"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gableroux&layout=compact&langs_count=15&theme=radical"/>
+  </a>
 </div>
 
 ## 📫 How to reach me:
