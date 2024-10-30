@@ -1,4 +1,4 @@
-# Hi, I'm `Gabriel Le Breton` aka `GabLeRoux`, nice to meet you&ensp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt= "gableroux" width="35">
+# Hi, I'm `Gabriel Le Breton` aka `GabLeRoux`, nice to meet you&ensp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="gableroux" width="35">
 
 Welcome to my GitHub profile! I speak `French`,
 `English`, and several programming languages. You can read my stuff on 🌐 [gableroux.com](https://www.gableroux.com/).
