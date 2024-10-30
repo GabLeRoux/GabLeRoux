@@ -21,14 +21,16 @@ Welcome to my GitHub profile! I speak `French`, `English`, and several programmi
     <td align="center" width="50%">
       <strong>🎮 Totema Studio</strong><br>
       Creating games with friends to bring people together<br><br>
-      <img src="https://avatars.githubusercontent.com/u/11981771?s=250&v=4" alt="Totema Studio" width="80"><br><br>
+      <a href="https://totemastudio.com/">
+        <img src="https://avatars.githubusercontent.com/u/11981771?s=250&v=4" alt="Totema Studio" width="250">
+      </a><br><br>
       <a href="https://totemastudio.com/">Explore our games</a>
     </td>
     <td align="center" width="50%">
       <strong>✅ GameCI</strong><br>
       Improving build and testing processes for game devs<br><br>
       <a href="https://game.ci/">
-        <img src="https://s.gravatar.com/avatar/50c8f69688b341095cae3755bc0720b2?s=250&v=4" alt="GameCI" width="80">
+        <img src="https://s.gravatar.com/avatar/50c8f69688b341095cae3755bc0720b2?s=250&v=4" alt="GameCI" width="250">
       </a><br><br>
       <a href="https://game.ci/">Discover the GameCI Community</a>
     </td>
