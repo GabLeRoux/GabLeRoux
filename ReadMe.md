@@ -1,10 +1,10 @@
-<!--START_SECTION:TITLE-->
-# <p align = left>Hi, I'm Gabriel Le Breton aka GabLeRoux, nice to meet you&ensp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt= "gableroux" width="35"></p>
-<!--END_SECTION:TITLE-->
+# Hi, I'm `Gabriel Le Breton` aka `GabLeRoux`, nice to meet you&ensp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt= "gableroux" width="35">
 
-Welcome to my GitHub profile! I speak `French`, `English`, and several programming languages. You can read my stuff on 🌐 [gableroux.com](https://www.gableroux.com/).
+Welcome to my GitHub profile! I speak `French`,
+`English`, and several programming languages. You can read my stuff on 🌐 [gableroux.com](https://www.gableroux.com/).
 
 ## 🐍 Contribution Snake
+
 <div align="left">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gableroux/gableroux/refs/heads/output/github-contribution-grid-snake-dark.svg" />
@@ -13,8 +13,7 @@ Welcome to my GitHub profile! I speak `French`, `English`, and several programmi
   </picture>
 </div>
 
-<!--START_SECTION:WORK-->
-### ***<p align = left>🔭 Projects I'm Passionate About </p>***
+### 🔭 Projects I'm Passionate About
 
 <table>
   <tr>
@@ -37,28 +36,30 @@ Welcome to my GitHub profile! I speak `French`, `English`, and several programmi
   </tr>
 </table>
 
-### ***<p align = left>💬 Ask me about </p>***
-***<p align = left></p>***
-***<p align = left>Automation, CI/CD, and writing tests before writing code.</p>***
-***<p align = left></p>***
-***<p align = left>![Y U NO UNIT TEST](http://i.imgur.com/vkyufhy.png)</p>***
-***<p align = left></p>***
-### ***<p align = left>📫 How to reach me </p>***
+### 💬 Ask me about
+
+Automation, CI/CD, and writing tests before writing code.
+
+![Y U NO UNIT TEST](http://i.imgur.com/vkyufhy.png)
+
+### 📫 How to reach me
+
 ***<ul>***
 ***<li>Send me cold emails at [lebreton.gabriel@gmail.com](mailto:lebreton.gabriel@gmail.com)</li>***
 ***<li>Join me on Discord at [game.ci/discord](https://game.ci/discord) 🤘</li>***
 ***</ul>***
-### ***<p align = left>🐍 Fun stuff </p>***
-***<p align = left></p>***
-***<p align = left>Want a cool `.pythonrc` file? [Check this out!](https://gableroux.com/python/2016/01/20/python-interpreter-autocomplete/)</p>***
-***<p align = left></p>***
-<!--END_SECTION:WORK-->
 
-## <p align = left> 🖥️ 	Tech Stack </p>
+### 🐍 Fun stuff
+
+Want a cool
+`.pythonrc` file? [Check this out!](https://gableroux.com/python/2016/01/20/python-interpreter-autocomplete/)
+
+## <p align = left> 🖥️ Tech Stack </p>
 
 I worked with a large number of technologies during my career, here are a few of them:
 
 ### **Programming Languages**
+
 ![C](https://img.shields.io/badge/c-%23555555.svg?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%23f34b7d.svg?style=flat&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23178600.svg?style=flat&logo=c-sharp&logoColor=white)
@@ -84,6 +85,7 @@ I worked with a large number of technologies during my career, here are a few of
 ![PowerShell](https://img.shields.io/badge/powershell-%235391FE.svg?style=flat&logo=powershell&logoColor=white)
 
 ### **Front-End Development**
+
 ![Vue.js](https://img.shields.io/badge/vue.js-%2341b883.svg?style=flat&logo=vue.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2361dbfb.svg?style=flat&logo=react&logoColor=white)
 ![AngularJS](https://img.shields.io/badge/angularjs-%23b52e31.svg?style=flat&logo=angularjs&logoColor=white)
@@ -94,6 +96,7 @@ I worked with a large number of technologies during my career, here are a few of
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%233fb3e0.svg?style=flat&logo=tailwindcss&logoColor=white)
 
 ### **Back-End Development & APIs**
+
 ![Node.js](https://img.shields.io/badge/node.js-%233c873a.svg?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/express-%23626361.svg?style=flat&logo=express&logoColor=white)
 ![NGINX](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)
@@ -102,6 +105,7 @@ I worked with a large number of technologies during my career, here are a few of
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23ff7221.svg?style=flat&logo=rabbitmq&logoColor=white)
 
 ### **Mobile Development**
+
 ![Android](https://img.shields.io/badge/android-%2332DE84.svg?style=flat&logo=android&logoColor=white)
 ![Xamarin](https://img.shields.io/badge/xamarin-%23378fdb.svg?style=flat&logo=xamarin&logoColor=white)
 ![Ionic](https://img.shields.io/badge/ionic-%23498aff.svg?style=flat&logo=ionic&logoColor=white)
@@ -109,12 +113,14 @@ I worked with a large number of technologies during my career, here are a few of
 ![Apache Cordova](https://img.shields.io/badge/apache%20cordova-%23505052.svg?style=flat&logo=apache%20cordova&logoColor=white)
 
 ### **Data Science & Machine Learning**
+
 ![TensorFlow](https://img.shields.io/badge/tensorflow-%23FFA800.svg?style=flat&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/pytorch-%23e04410.svg?style=flat&logo=pytorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%230b0638.svg?style=flat&logo=pandas&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%233bbd2d.svg?style=flat&logo=opencv&logoColor=white)
 
 ### **Databases**
+
 ![MongoDB](https://img.shields.io/badge/mongodb-%234db33d.svg?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300758f.svg?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%230064a5.svg?style=flat&logo=postgresql&logoColor=white)
@@ -124,12 +130,14 @@ I worked with a large number of technologies during my career, here are a few of
 ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%232f9e76.svg?style=flat&logo=elasticsearch&logoColor=white)
 
 ### **Data Visualization**
+
 ![D3.js](https://img.shields.io/badge/d3.js-%23e37430.svg?style=flat&logo=d3.js&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-%23f58822.svg?style=flat&logo=grafana&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/chart.js-%23e85858.svg?style=flat&logo=chart.js&logoColor=white)
 ![Kibana](https://img.shields.io/badge/kibana-%23cc2bb4.svg?style=flat&logo=kibana&logoColor=white)
 
 ### CI/CD Platforms
+
 ![Github Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=github%20actions&logoColor=white)
 ![Act](https://img.shields.io/badge/act-%23000000.svg?style=flat&logo=github%20actions&logoColor=white)
 ![Gitlab CI](https://img.shields.io/badge/gitlab%20ci-%23FCA121.svg?style=flat&logo=gitlab&logoColor=white)
@@ -138,6 +146,7 @@ I worked with a large number of technologies during my career, here are a few of
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white)
 
 ### **DevOps & Cloud**
+
 ![Docker](https://img.shields.io/badge/docker-%23384d54.svg?style=flat&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/ansible-%23226154.svg?style=flat&logo=ansible&logoColor=white)
@@ -149,6 +158,7 @@ I worked with a large number of technologies during my career, here are a few of
 ![Vagrant](https://img.shields.io/badge/vagrant-%232a44b8.svg?style=flat&logo=vagrant&logoColor=white)
 
 ### **Testing & CI/CD**
+
 ![Pytest](https://img.shields.io/badge/pytest-%234A6C9B.svg?style=flat&logo=pytest&logoColor=white)
 ![Vitest](https://img.shields.io/badge/vitest-%23FFC800.svg?style=flat&logo=vitest&logoColor=white)
 ![Cypress](https://img.shields.io/badge/cypress-%23454545.svg?style=flat&logo=cypress&logoColor=white)
@@ -158,6 +168,7 @@ I worked with a large number of technologies during my career, here are a few of
 ![Puppeteer](https://img.shields.io/badge/puppeteer-%2318a367.svg?style=flat&logo=puppeteer&logoColor=white)
 
 ### **Frameworks**
+
 ![Django](https://img.shields.io/badge/django-%23092e20.svg?style=flat&logo=django&logoColor=white)
 ![Django DRF](https://img.shields.io/badge/django%20drf-%23092e20.svg?style=flat&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23444444.svg?style=flat&logo=flask&logoColor=white)
@@ -168,6 +179,7 @@ I worked with a large number of technologies during my career, here are a few of
 ![Electron](https://img.shields.io/badge/electron-%23011c3d.svg?style=flat&logo=electron&logoColor=white)
 
 ### **Platforms & Tools**
+
 ![MacOS](https://img.shields.io/badge/macos-%23999999.svg?style=flat&logo=apple&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-%23ffcc33.svg?style=flat&logo=linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/windows-%230078D6.svg?style=flat&logo=windows&logoColor=white)
@@ -191,28 +203,20 @@ I worked with a large number of technologies during my career, here are a few of
 ![Google Drive](https://img.shields.io/badge/google%20drive-%233AA8F2.svg?style=flat&logo=google%20drive&logoColor=white)
 ![Dropbox](https://img.shields.io/badge/dropbox-%230085FF.svg?style=flat&logo=dropbox&logoColor=white)
 
-<!--END_SECTION:SKILL-->
-
 ### And here goes the charts
 
 <table>
   <tr>
     <td align="center" width="60%">
-      <!--START_SECTION:README-STATS-->
       <img src="https://github-readme-stats.vercel.app/api?username=gableroux&show_icons=true&theme=default&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-      <!--END_SECTION:README-STATS-->
     </td>
     <td align="center" width="40%">
-      <!--START_SECTION:README-STATS-LANGUAGES-->
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gableroux&langs_count=8&layout=compact&theme=default&hide_border=false" alt="Top Languages" />
-      <!--END_SECTION:README-STATS-LANGUAGES-->
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <!--START_SECTION:STREAK-STATS-->
       <img src="https://streak-stats.demolab.com/?user=gableroux&theme=default&hide_border=false" alt="Streak Stats" />
-      <!--END_SECTION:STREAK-STATS-->
     </td>
   </tr>
 </table>
