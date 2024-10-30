@@ -16,39 +16,25 @@ Welcome to my GitHub profile! I speak `French`, `English`, and several programmi
 <!--START_SECTION:WORK-->
 ### ***<p align = left>🔭 Projects I'm Passionate About </p>***
 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <strong>🎮 Totema Studio</strong><br>
+      Creating games with friends to bring people together<br><br>
+      <img src="https://avatars.githubusercontent.com/u/11981771?s=250&v=4" alt="Totema Studio" width="80"><br><br>
+      <a href="https://totemastudio.com/">Explore our games</a>
+    </td>
+    <td align="center" width="50%">
+      <strong>✅ GameCI</strong><br>
+      Improving build and testing processes for game devs<br><br>
+      <a href="https://game.ci/">
+        <img src="https://s.gravatar.com/avatar/50c8f69688b341095cae3755bc0720b2?s=250&v=4" alt="GameCI" width="80">
+      </a><br><br>
+      <a href="https://game.ci/">Discover the GameCI Community</a>
+    </td>
+  </tr>
+</table>
 
-<!-- Totema Studio Column -->
-<div style="flex: 1; padding: 10px;">
-  <p align="center">
-    <strong>🎮 Totema Studio</strong><br>
-    Creating games with friends to bring people together
-  </p>
-  <p align="center">
-    <img src="https://avatars.githubusercontent.com/u/11981771?s=250&v=4" alt="Totema Studio" width="80">
-  </p>
-  <p align="center">
-    <a href="https://totemastudio.com/">Explore Totema Studio</a> 🎉
-  </p>
-</div>
-
-<!-- GameCI Column -->
-<div style="flex: 1; padding: 10px;">
-  <p align="center">
-    <strong>✅ GameCI</strong><br>
-    Improving build and testing processes for game devs
-  </p>
-  <p align="center">
-    <a href="https://game.ci/">
-      <img src="https://s.gravatar.com/avatar/50c8f69688b341095cae3755bc0720b2?s=250&v=4" alt="GameCI" width="80">
-    </a>
-  </p>
-  <p align="center">
-    <a href="https://game.ci/">Discover GameCI</a> 💖
-  </p>
-</div>
-
-</div>
 ### ***<p align = left>💬 Ask me about </p>***
 ***<p align = left></p>***
 ***<p align = left>Automation, CI/CD, and writing tests before writing code.</p>***
