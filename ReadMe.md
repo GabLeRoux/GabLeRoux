@@ -14,17 +14,29 @@ Welcome to my GitHub profile! I speak `French`, `English`, and several programmi
 </div>
 
 <!--START_SECTION:WORK-->
-### ***<p align = left>🔭 I'm currently working on </p>***
-***<p align = left></p>***
-***<p align = left>🎮 Games at Totema Studio with friends</p>***
-***<p align = left></p>***
-***<p align = left>[![Totema Studio](https://avatars.githubusercontent.com/u/11981771?s=200&v=4)](https://totemastudio.com/)</p>***
-***<p align = left></p>***
-### ***<p align = left>✅ I'm involved in making builds and tests pass with GameCI</p>***
-***<p align = left></p>***
-***<p align = left>[![game.ci](https://s.gravatar.com/avatar/50c8f69688b341095cae3755bc0720b2?s=250)](https://game.ci/)  </p>***
-***<p align = left>[game.ci](https://game.ci) is a community focused on making building and testing games easier <3</p>***
-***<p align = left></p>***
+### ***<p align = left>🔭 Projects I'm Passionate About </p>***
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <strong>🎮 Totema Studio</strong><br>
+      Creating games with friends to bring people together<br><br>
+      <a href="https://totemastudio.com/">
+        <img src="https://avatars.githubusercontent.com/u/11981771?s=250&v=4" alt="Totema Studio" width="250">
+      </a><br><br>
+      <a href="https://totemastudio.com/">Explore our games</a>
+    </td>
+    <td align="center" width="50%">
+      <strong>✅ GameCI</strong><br>
+      Improving build and testing processes for game devs<br><br>
+      <a href="https://game.ci/">
+        <img src="https://s.gravatar.com/avatar/50c8f69688b341095cae3755bc0720b2?s=250&v=4" alt="GameCI" width="250">
+      </a><br><br>
+      <a href="https://game.ci/">Discover the GameCI Community</a>
+    </td>
+  </tr>
+</table>
+
 ### ***<p align = left>💬 Ask me about </p>***
 ***<p align = left></p>***
 ***<p align = left>Automation, CI/CD, and writing tests before writing code.</p>***
@@ -183,22 +195,26 @@ I worked with a large number of technologies during my career, here are a few of
 
 ### And here goes the charts
 
-<!--START_SECTION:README-STATS-->
-<div align = "left">
-    <img src = "https://github-readme-stats.vercel.app/api?username=gableroux&show_icons=true&theme=default&hide_border=false&include_all_commits=true&count_private=true" alt = "gableroux"/> 
-</div>
-<!--END_SECTION:README-STATS-->
-
-<!--START_SECTION:README-STATS-LANGUAGES-->
-<div align = "left">
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gableroux&langs_count=8&layout=compact&theme=default&hide_border=false" alt = "gableroux"/> 
-</div>
-<!--END_SECTION:README-STATS-LANGUAGES-->
-
-<!--START_SECTION:STREAK-STATS-->
-<div align = "left">
-    <img src = "https://streak-stats.demolab.com/?user=gableroux&theme=default&hide_border=false" alt = "gableroux"/> 
-</div>
-<!--END_SECTION:STREAK-STATS-->
+<table>
+  <tr>
+    <td align="center" width="60%">
+      <!--START_SECTION:README-STATS-->
+      <img src="https://github-readme-stats.vercel.app/api?username=gableroux&show_icons=true&theme=default&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+      <!--END_SECTION:README-STATS-->
+    </td>
+    <td align="center" width="40%">
+      <!--START_SECTION:README-STATS-LANGUAGES-->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gableroux&langs_count=8&layout=compact&theme=default&hide_border=false" alt="Top Languages" />
+      <!--END_SECTION:README-STATS-LANGUAGES-->
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <!--START_SECTION:STREAK-STATS-->
+      <img src="https://streak-stats.demolab.com/?user=gableroux&theme=default&hide_border=false" alt="Streak Stats" />
+      <!--END_SECTION:STREAK-STATS-->
+    </td>
+  </tr>
+</table>
 
 ![Profile views](https://komarev.com/ghpvc/?username=gableroux&abbreviated=true)
