@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I speak `French`, `English`, and several programmi
 ***<p align = left></p>***
 ***<p align = left>🎮 Games at Totema Studio with friends</p>***
 ***<p align = left></p>***
-***<p align = left>![Totema Studio](https://avatars.githubusercontent.com/u/11981771?s=200&v=4)</p>***
+***<p align = left>[![Totema Studio](https://avatars.githubusercontent.com/u/11981771?s=200&v=4)](https://totemastudio.com/)</p>***
 ***<p align = left></p>***
 ### ***<p align = left>✅ I'm involved in making builds and tests pass with GameCI</p>***
 ***<p align = left></p>***
