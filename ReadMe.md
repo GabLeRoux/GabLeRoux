@@ -195,22 +195,26 @@ I worked with a large number of technologies during my career, here are a few of
 
 ### And here goes the charts
 
-<!--START_SECTION:README-STATS-->
-<div align = "left">
-    <img src = "https://github-readme-stats.vercel.app/api?username=gableroux&show_icons=true&theme=default&hide_border=false&include_all_commits=true&count_private=true" alt = "gableroux"/> 
-</div>
-<!--END_SECTION:README-STATS-->
-
-<!--START_SECTION:README-STATS-LANGUAGES-->
-<div align = "left">
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gableroux&langs_count=8&layout=compact&theme=default&hide_border=false" alt = "gableroux"/> 
-</div>
-<!--END_SECTION:README-STATS-LANGUAGES-->
-
-<!--START_SECTION:STREAK-STATS-->
-<div align = "left">
-    <img src = "https://streak-stats.demolab.com/?user=gableroux&theme=default&hide_border=false" alt = "gableroux"/> 
-</div>
-<!--END_SECTION:STREAK-STATS-->
+<table>
+  <tr>
+    <td align="center" width="60%">
+      <!--START_SECTION:README-STATS-->
+      <img src="https://github-readme-stats.vercel.app/api?username=gableroux&show_icons=true&theme=default&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+      <!--END_SECTION:README-STATS-->
+    </td>
+    <td align="center" width="40%">
+      <!--START_SECTION:README-STATS-LANGUAGES-->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gableroux&langs_count=8&layout=compact&theme=default&hide_border=false" alt="Top Languages" />
+      <!--END_SECTION:README-STATS-LANGUAGES-->
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <!--START_SECTION:STREAK-STATS-->
+      <img src="https://streak-stats.demolab.com/?user=gableroux&theme=default&hide_border=false" alt="Streak Stats" />
+      <!--END_SECTION:STREAK-STATS-->
+    </td>
+  </tr>
+</table>
 
 ![Profile views](https://komarev.com/ghpvc/?username=gableroux&abbreviated=true)
