@@ -9,7 +9,12 @@ Welcome to my GitHub profile! I speak `French`, `English`, and several programmi
 [![game.ci](https://s.gravatar.com/avatar/50c8f69688b341095cae3755bc0720b2?s=250)](https://game.ci/)  
 [game.ci](https://game.ci), a community focused on making building and testing games easier <3
 
-![GitHub Contribution Snake Animation](https://github.com/gableroux/gableroux/blob/output/github-contribution-grid-snake.svg)
+<!-- See `.github/workflows/snake.yml` for the script that generates this section -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 ## 🔨 What I Use
 
