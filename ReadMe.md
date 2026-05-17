@@ -49,6 +49,8 @@ I speak `French`, `English`, and several programming languages.
 
 ## 🎮 [Rolal Vermin](https://royalvermin.com/en/)
 
+Check this out if you like crazy local multiplayer party games!
+
 [![Royal Vermin](http://img.youtube.com/vi/l569Mjrll8A/0.jpg)](http://www.youtube.com/watch?v=l569Mjrll8A "Royal Vermin")
 
 ## 💬 Ask me about
